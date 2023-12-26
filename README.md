@@ -14,5 +14,13 @@ Skils: torch, python, ubuntu20.04LTS , huggingface
 
 # 블로그 는 제목쓰고, 링크 넣기 
 2) StyleGAN2 : Analyzing and Improving the Image Quality of StyleGAN
-https://velog.io/@minjung-s/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0StyleGAN2-Analyzing-and-Improving-the-Image-Quality-of-StyleGAN
+https://velog.io/@minjung-s/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0StyleGAN2-Analyzing-and-Improving-the-Image-Quality-of-StyleGA
+
+Installation 
+
+1. pip install -r requirements.txt
+
+2. model 다운로드 Google Drive URL : 공유 링크 만들어서 넣기
+
+3. python infer.py ./models/BIAS.pth
 
